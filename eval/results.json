@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What was Apple's total revenue in 2023?",
+    "answer": "Based on the financial data in 2023, Apple's total revenue was 383.3 billion dollars.",
+    "time": 0.8
+  },
+  {
+    "question": "What does Nvidia say about their GPU business?",
+    "answer": "Nvidia's GPU business is a significant contributor to their revenue, with a 92% market share in Q1 2025. They have been successful in the gaming and professional graphics markets and have also expanded into the fields of artificial intelligence and data science.",
+    "time": 0.97
+  },
+  {
+    "question": "What was Tesla's revenue and net income in 2023?",
+    "answer": "Tesla's revenue in 2023 was 96.8 billion dollars, and their net income was 15 billion dollars.",
+    "time": 0.74
+  },
+  {
+    "question": "What does Meta's report say about their AI investments?",
+    "answer": "Meta has been investing heavily in AI, with various reports indicating significant investments in AI startups and partnerships with companies like Nvidia. Their AI unit has also undergone restructuring, with 600 layoffs reported in 2025.",
+    "time": 0.62
+  },
+  {
+    "question": "Compare Microsoft and Google revenue in 2023",
+    "answer": "To compare the revenues, we need to find the difference between Google and Microsoft revenue in 2023.\n\nMicrosoft's revenue in 2023 was 211.9 billion USD.\nGoogle's revenue in 2023 was 307.4 billion USD.\n\nThe difference in revenue between Google and Microsoft in 2023 is 95.5 billion USD, in favor of Google.",
+    "time": 1.04
+  }
+]
