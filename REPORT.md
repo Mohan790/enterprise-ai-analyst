@@ -1,7 +1,7 @@
 # Enterprise AI Data Analyst — Architecture Report
 
 ## 1. System Architecture
-┌─────────────────────────┐
+                ┌─────────────────────────┐
                 │   User Question (API)   │
                 └────────────┬────────────┘
                              ▼
