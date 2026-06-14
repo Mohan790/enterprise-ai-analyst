@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-huggingface
+langchain-groq
+langgraph
+qdrant-client
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
+pypdf
+beautifulsoup4
+lxml
