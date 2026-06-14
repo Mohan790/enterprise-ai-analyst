@@ -61,3 +61,6 @@ curl -X POST http://localhost:8080/ask \
 
 ## Team
 Mohan Balaji Rajaram and Ezekiel
+
+## Vedio 
+https://1drv.ms/v/c/5cc8b40456e8a390/IQCUEtgjMdfmS61Gy7fM-WUSAdOxw9qHAAGxMAInAmqqNyQ?e=iQHkZq
